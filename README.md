@@ -1,6 +1,6 @@
 # Inventor Music Store App
 
-This is a fullstack python program that stores music information in an inventory-styled interface. It stores the title of song, name of artiste, music genre, year of song release, and copyright number of songs the user enters. The program saves this data in a python SQLite database.
+This is a fullstack python program that stores music information in an inventory-styled interface made with Tkinter GUI. It stores the title of song, name of artiste, music genre, year of song release, and copyright number of songs the user enters. The program saves this data in a python SQLite database.
 
 # Users Can:
 
@@ -21,4 +21,4 @@ There's a frontend.py file that you can run inside an IDE to test the app.
 
 This is a refactored/updated version from one of my python projects. It reflects some of my knowledge in python and creating a full stack python app.
 
-# THANK YOU
+Welcome to Inventor! Clone Repo and Explore!
